@@ -1,4 +1,4 @@
-# PLACEHOLDER_REPOSITORY_TITLE
+# pseudospectral-band-unfolding
 
 This repository contains MATLAB scripts used to generate data and figures for the paper:
 

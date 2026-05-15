@@ -3,7 +3,9 @@
 This repository contains MATLAB scripts used to generate data and figures for the paper:
 
 > Band Unfolding via the Quadratic Pseudospectrum
+ 
 > Christopher A. Bairnsfather, Ralph M. Kaufmann, Terry A. Loring, Alexander Cerjan
+ 
 > https://arxiv.org/abs/2605.05423
 
 The code is associated with the numerical examples in the paper. The main purpose of this repository is to make the scripts used for data generation and figure preparation publicly available.
@@ -73,4 +75,5 @@ PLACEHOLDER_BIBTEX_ENTRY_FOR_AFTER_ACCEPTANCE
 For questions about the code, contact:
 
 Christopher A. Bairnsfather
+
 cbairnsf at purdue dot edu

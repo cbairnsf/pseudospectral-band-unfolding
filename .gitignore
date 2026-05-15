@@ -1,0 +1,22 @@
+# MATLAB autosaves
+*.asv
+
+# MATLAB/Simulink cache and build artifacts
+*.slxc
+codegen/
+slprj/
+sccprj/
+
+# OS/editor clutter
+.DS_Store
+Thumbs.db
+*~
+*.swp
+
+# Large/generated output directories; adjust names as needed
+output/
+outputs/
+results/
+data_out/
+figures/generated/
+EOF
